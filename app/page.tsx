@@ -387,8 +387,8 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Email: info@devscholar.com</li>
-                <li>Phone: +234 123 456 7890</li>
+                <li>Email: devscholar19@gmail.com</li>
+                <li>Phone: +234 912 450 3785</li>
                 <li>Hours: Mon-Fri, 9am-5pm</li>
               </ul>
             </div>
