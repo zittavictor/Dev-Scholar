@@ -72,9 +72,10 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <section className="pt-32 pb-20 px-4 md:px-0 flex flex-col items-center justify-center min-h-screen text-center">
-        <h1 className="text-4xl md:text-6xl font-bold mb-4 max-w-3xl">Your Gateway to Academic Excellence</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-4 max-w-3xl">Elevate Your Academic Journey
+</h1>
         <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-          Expert assistance for your research projects, from code implementation to detailed writeups.
+          Expert help for research projects—from coding to comprehensive documentation.
         </p>
         <button
           onClick={toggleRequestForm}
