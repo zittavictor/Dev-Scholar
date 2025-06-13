@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Dev Scholar - Elevate Your Academic Journey",
-  description: "Expert help for research projects—from coding to comprehensive documentation",
+  description: "Expert help for research projects from coding to comprehensive documentation",
     generator: 'v0.dev'
 }
 
